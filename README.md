@@ -52,4 +52,4 @@ internal benchmarking and performance validation.
 5. Run: python src/data_processing.py
 
 ## Author
-Bamla | 10 Academy x Kifiya | Week 4 | May 2026
+Mahlet Adane | 10 Academy x Kifiya | Week 4 | May 2026
